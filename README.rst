@@ -6,6 +6,8 @@ This sample app returns a random image from the NYPL Collections API based
 on the day of creation. It's a little buggy... the date might be off sometimes
 but you should get a fun image irregardless.
 
+The main script lives in nypl_img/views.py.
+
 User Guide
 ----------
 
